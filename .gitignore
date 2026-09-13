@@ -23,3 +23,6 @@ $RECYCLE.BIN/
 # ---- Node（如果未来加） ----
 node_modules/
 package-lock.json
+# ---- 不上线的旧备份与开发工具 ----
+backup/
+tools/
