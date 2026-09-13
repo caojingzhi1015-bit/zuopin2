@@ -1,0 +1,25 @@
+# ---- OS / 编辑器 ----
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# ---- IDE / 工作流 ----
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ---- WorkBuddy 项目记忆（不入库） ----
+.workbuddy/
+
+# ---- 临时与构建产物 ----
+*.log
+*.tmp
+*~
+.cache/
+
+# ---- Node（如果未来加） ----
+node_modules/
+package-lock.json
